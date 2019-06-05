@@ -195,7 +195,7 @@ wcF <- wordcloud2(word.docsF,
 ```
 
 ```{r echo=FALSE, out.width="100%", fig.align='center'}
-knitr::include_graphics("/Users/wangxinquan/Desktop/2sem/STAT5243`/Spring2019-Proj1-xinquan-wang/figs/wordcloud.jpg")
+knitr::include_graphics("/Users/wangxinquan/Desktop/2sem/STAT5243`/Spring2019-Proj1-xinquan-wang/figs/wordcloud.png")
 ```
 
 Notice that except the term friend which appears largest in both genders' wordclouds, females and males do have different focuses. Game, job and relationship are entertained males most. But females lay more concentrations on family and other life relating stuff like surprise, birthday and shopping Basically, this is consistent with our life experience.  
